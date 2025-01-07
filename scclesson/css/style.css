@@ -1,0 +1,27 @@
+div{
+  background-color: #f2ceda;
+}
+h1 { color: rgb(212, 13, 13);
+text-decoration: underline;}
+
+.red_bg {
+  background-color: red;
+}
+.para_color {
+  background-color: hotpink;
+}
+.para_one {
+  text-align: center;
+}
+a {
+  color: orange;
+  text-decoration: none;
+}
+.para{
+  text-align: justify;
+}
+.btn {background-color: #d23166;
+color: #fff;
+border: none;
+border-radius: 4px;
+padding: 10px;}
